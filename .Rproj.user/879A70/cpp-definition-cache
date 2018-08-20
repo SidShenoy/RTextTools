@@ -1,0 +1,1880 @@
+[
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/Languages.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/api.c",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "SN_create_env(int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SN_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/api.c",
+                "kind" : 6,
+                "line" : 28,
+                "name" : "SN_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SN_close_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/api.c",
+                "kind" : 6,
+                "line" : 43,
+                "name" : "SN_set_current(struct SN_env *, int, const symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SN_set_current"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/api.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 23,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/api.h",
+                "kind" : 8,
+                "line" : 2,
+                "name" : "symbol",
+                "parent_name" : "",
+                "usr" : "c:api.h@1@T@symbol"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/api.h",
+                "kind" : 3,
+                "line" : 14,
+                "name" : "SN_env",
+                "parent_name" : "",
+                "usr" : "c:@S@SN_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/api.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 121,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:danish_stem.c@326@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 148,
+                "name" : "r_main_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:danish_stem.c@281@F@r_main_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 175,
+                "name" : "r_consonant_pair(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:danish_stem.c@233@F@r_consonant_pair"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 197,
+                "name" : "r_other_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:danish_stem.c@187@F@r_other_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 237,
+                "name" : "r_undouble(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:danish_stem.c@145@F@r_undouble"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 255,
+                "name" : "danish_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@danish_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 287,
+                "name" : "danish_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@danish_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+                "kind" : 6,
+                "line" : 289,
+                "name" : "danish_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@danish_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/danish_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 141,
+                "name" : "r_prelude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@480@F@r_prelude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 221,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@307@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 261,
+                "name" : "r_postlude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@438@F@r_postlude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 290,
+                "name" : "r_R1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@271@F@r_R1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 295,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@235@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 300,
+                "name" : "r_undouble(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@193@F@r_undouble"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 313,
+                "name" : "r_e_ending(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@396@F@r_e_ending"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 329,
+                "name" : "r_en_ending(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@353@F@r_en_ending"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 346,
+                "name" : "r_standard_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:dutch_stem.c@144@F@r_standard_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 470,
+                "name" : "dutch_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@dutch_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 497,
+                "name" : "dutch_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@dutch_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+                "kind" : 6,
+                "line" : 499,
+                "name" : "dutch_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@dutch_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/dutch_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 341,
+                "name" : "r_prelude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@717@F@r_prelude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 382,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@629@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 429,
+                "name" : "r_shortv(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@589@F@r_shortv"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 445,
+                "name" : "r_R1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@553@F@r_R1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 450,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@517@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 455,
+                "name" : "r_Step_1a(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@476@F@r_Step_1a"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 495,
+                "name" : "r_Step_1b(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@435@F@r_Step_1b"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 556,
+                "name" : "r_Step_1c(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@394@F@r_Step_1c"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 578,
+                "name" : "r_Step_2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@354@F@r_Step_2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 641,
+                "name" : "r_Step_3(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@314@F@r_Step_3"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 673,
+                "name" : "r_Step_4(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@274@F@r_Step_4"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 700,
+                "name" : "r_Step_5(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@234@F@r_Step_5"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 734,
+                "name" : "r_exception2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@146@F@r_exception2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 742,
+                "name" : "r_exception1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@190@F@r_exception1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 788,
+                "name" : "r_postlude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:english_stem.c@675@F@r_postlude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 813,
+                "name" : "english_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@english_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 891,
+                "name" : "english_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@english_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+                "kind" : 6,
+                "line" : 893,
+                "name" : "english_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@english_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/english_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 277,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@553@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 319,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@517@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 324,
+                "name" : "r_particle_etc(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@471@F@r_particle_etc"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 351,
+                "name" : "r_possessive(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@427@F@r_possessive"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 402,
+                "name" : "r_LONG(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@389@F@r_LONG"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 407,
+                "name" : "r_VI(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@353@F@r_VI"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 413,
+                "name" : "r_case(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@315@F@r_case"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 480,
+                "name" : "r_other_endings(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@184@F@r_other_endings"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 509,
+                "name" : "r_i_plural(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@273@F@r_i_plural"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 525,
+                "name" : "r_t_plural(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@231@F@r_t_plural"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 570,
+                "name" : "r_tidy(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:finnish_stem.c@146@F@r_tidy"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 646,
+                "name" : "finnish_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@finnish_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 701,
+                "name" : "finnish_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@finnish_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+                "kind" : 6,
+                "line" : 703,
+                "name" : "finnish_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@finnish_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/finnish_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 394,
+                "name" : "r_prelude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@617@F@r_prelude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 455,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@529@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 520,
+                "name" : "r_postlude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@575@F@r_postlude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 552,
+                "name" : "r_RV(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@493@F@r_RV"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 557,
+                "name" : "r_R1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@457@F@r_R1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 562,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@421@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 567,
+                "name" : "r_standard_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@372@F@r_standard_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 768,
+                "name" : "r_i_verb_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@325@F@r_i_verb_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 792,
+                "name" : "r_verb_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@280@F@r_verb_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 830,
+                "name" : "r_residual_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@231@F@r_residual_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 884,
+                "name" : "r_un_double(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@188@F@r_un_double"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 897,
+                "name" : "r_un_accent(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:french_stem.c@145@F@r_un_accent"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 922,
+                "name" : "french_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@french_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 997,
+                "name" : "french_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@french_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+                "kind" : 6,
+                "line" : 999,
+                "name" : "french_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@french_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/french_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 118,
+                "name" : "r_prelude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:german_stem.c@354@F@r_prelude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 176,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:german_stem.c@266@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 216,
+                "name" : "r_postlude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:german_stem.c@312@F@r_postlude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 254,
+                "name" : "r_R1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:german_stem.c@230@F@r_R1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 259,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:german_stem.c@194@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 264,
+                "name" : "r_standard_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:german_stem.c@145@F@r_standard_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 387,
+                "name" : "german_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@german_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 414,
+                "name" : "german_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@german_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+                "kind" : 6,
+                "line" : 416,
+                "name" : "german_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@german_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/german_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/header.h",
+                "kind" : 3,
+                "line" : 15,
+                "name" : "among",
+                "parent_name" : "",
+                "usr" : "c:@S@among"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/header.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 475,
+                "name" : "r_prelude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@532@F@r_prelude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 551,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@444@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 645,
+                "name" : "r_postlude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@490@F@r_postlude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 674,
+                "name" : "r_RV(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@408@F@r_RV"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 679,
+                "name" : "r_R1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@372@F@r_R1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 684,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@336@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 689,
+                "name" : "r_attached_pronoun(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@286@F@r_attached_pronoun"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 709,
+                "name" : "r_standard_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@237@F@r_standard_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 815,
+                "name" : "r_verb_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@192@F@r_verb_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 838,
+                "name" : "r_vowel_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:italian_stem.c@146@F@r_vowel_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 866,
+                "name" : "italian_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@italian_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 910,
+                "name" : "italian_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@italian_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+                "kind" : 6,
+                "line" : 912,
+                "name" : "italian_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@italian_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/italian_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 23,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 8,
+                "line" : 6,
+                "name" : "SN_env",
+                "parent_name" : "",
+                "usr" : "c:mytest.c@69@T@SN_env"
+            },
+            {
+                "column" : 27,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 8,
+                "line" : 8,
+                "name" : "CreateEnvFun",
+                "parent_name" : "",
+                "usr" : "c:mytest.c@100@T@CreateEnvFun"
+            },
+            {
+                "column" : 16,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 8,
+                "line" : 9,
+                "name" : "CloseEnvFun",
+                "parent_name" : "",
+                "usr" : "c:mytest.c@147@T@CloseEnvFun"
+            },
+            {
+                "column" : 15,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 8,
+                "line" : 10,
+                "name" : "StemFun",
+                "parent_name" : "",
+                "usr" : "c:mytest.c@192@T@StemFun"
+            },
+            {
+                "column" : 9,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 3,
+                "line" : 13,
+                "name" : "",
+                "parent_name" : "",
+                "usr" : "c:@SA@StemLanguage"
+            },
+            {
+                "column" : 3,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 8,
+                "line" : 18,
+                "name" : "StemLanguage",
+                "parent_name" : "",
+                "usr" : "c:mytest.c@348@T@StemLanguage"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 36,
+                "name" : "S_stemWords(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@S_stemWords"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 92,
+                "name" : "findLanguage(const char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@findLanguage"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 106,
+                "name" : "S_getLanguages",
+                "parent_name" : "",
+                "usr" : "c:@F@S_getLanguages"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 125,
+                "name" : "S_getMaxWordLength",
+                "parent_name" : "",
+                "usr" : "c:@F@S_getMaxWordLength"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 143,
+                "name" : "getLanguageRoutine(SEXP, CreateEnvFun *, CloseEnvFun *, StemFun *)",
+                "parent_name" : "",
+                "usr" : "c:mytest.c@662@F@getLanguageRoutine"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 187,
+                "name" : "testDynCreate",
+                "parent_name" : "",
+                "usr" : "c:@F@testDynCreate"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 193,
+                "name" : "testDynClose(SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@testDynClose"
+            },
+            {
+                "column" : 1,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 199,
+                "name" : "testDynStem(SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@testDynStem"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+                "kind" : 6,
+                "line" : 218,
+                "name" : "R_init_Rstem(DllInfo *)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_init_Rstem"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/mytest.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+                "kind" : 6,
+                "line" : 120,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:norwegian_stem.c@287@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+                "kind" : 6,
+                "line" : 147,
+                "name" : "r_main_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:norwegian_stem.c@242@F@r_main_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+                "kind" : 6,
+                "line" : 177,
+                "name" : "r_consonant_pair(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:norwegian_stem.c@194@F@r_consonant_pair"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+                "kind" : 6,
+                "line" : 199,
+                "name" : "r_other_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:norwegian_stem.c@148@F@r_other_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+                "kind" : 6,
+                "line" : 222,
+                "name" : "norwegian_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@norwegian_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+                "kind" : 6,
+                "line" : 249,
+                "name" : "norwegian_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@norwegian_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+                "kind" : 6,
+                "line" : 251,
+                "name" : "norwegian_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@norwegian_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/norwegian_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 461,
+                "name" : "r_prelude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@535@F@r_prelude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 490,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@447@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 584,
+                "name" : "r_postlude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@493@F@r_postlude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 613,
+                "name" : "r_RV(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@411@F@r_RV"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 618,
+                "name" : "r_R1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@375@F@r_R1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 623,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@339@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 628,
+                "name" : "r_standard_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@290@F@r_standard_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 736,
+                "name" : "r_verb_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@245@F@r_verb_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 759,
+                "name" : "r_residual_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@196@F@r_residual_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 775,
+                "name" : "r_residual_form(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:portuguese_stem.c@149@F@r_residual_form"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 815,
+                "name" : "portuguese_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@portuguese_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 874,
+                "name" : "portuguese_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@portuguese_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+                "kind" : 6,
+                "line" : 876,
+                "name" : "portuguese_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@portuguese_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/portuguese_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 340,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@526@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 380,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@490@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 385,
+                "name" : "r_perfective_gerund(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@439@F@r_perfective_gerund"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 411,
+                "name" : "r_adjective(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@396@F@r_adjective"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 426,
+                "name" : "r_adjectival(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@352@F@r_adjectival"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 457,
+                "name" : "r_reflexive(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@309@F@r_reflexive"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 472,
+                "name" : "r_verb(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@271@F@r_verb"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 498,
+                "name" : "r_noun(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@233@F@r_noun"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 513,
+                "name" : "r_derivational(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@187@F@r_derivational"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 529,
+                "name" : "r_tidy_up(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:russian_stem.c@146@F@r_tidy_up"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 556,
+                "name" : "russian_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@russian_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 623,
+                "name" : "russian_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@russian_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+                "kind" : 6,
+                "line" : 625,
+                "name" : "russian_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@russian_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/russian_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 489,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@494@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 583,
+                "name" : "r_postlude(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@540@F@r_postlude"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 621,
+                "name" : "r_RV(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@458@F@r_RV"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 626,
+                "name" : "r_R1(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@422@F@r_R1"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 631,
+                "name" : "r_R2(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@386@F@r_R2"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 636,
+                "name" : "r_attached_pronoun(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@336@F@r_attached_pronoun"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 677,
+                "name" : "r_standard_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@287@F@r_standard_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 793,
+                "name" : "r_y_verb_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@240@F@r_y_verb_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 817,
+                "name" : "r_verb_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@195@F@r_verb_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 853,
+                "name" : "r_residual_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:spanish_stem.c@146@F@r_residual_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 886,
+                "name" : "spanish_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@spanish_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 929,
+                "name" : "spanish_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@spanish_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+                "kind" : 6,
+                "line" : 931,
+                "name" : "spanish_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@spanish_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/spanish_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+                "kind" : 6,
+                "line" : 135,
+                "name" : "r_mark_regions(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:swedish_stem.c@285@F@r_mark_regions"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+                "kind" : 6,
+                "line" : 162,
+                "name" : "r_main_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:swedish_stem.c@240@F@r_main_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+                "kind" : 6,
+                "line" : 189,
+                "name" : "r_consonant_pair(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:swedish_stem.c@192@F@r_consonant_pair"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+                "kind" : 6,
+                "line" : 210,
+                "name" : "r_other_suffix(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:swedish_stem.c@146@F@r_other_suffix"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+                "kind" : 6,
+                "line" : 239,
+                "name" : "swedish_stem(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@swedish_stem"
+            },
+            {
+                "column" : 24,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+                "kind" : 6,
+                "line" : 266,
+                "name" : "swedish_create_env",
+                "parent_name" : "",
+                "usr" : "c:@F@swedish_create_env"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+                "kind" : 6,
+                "line" : 268,
+                "name" : "swedish_close_env(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@swedish_close_env"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.c",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/swedish_stem.h",
+        "file_last_write" : 1390093818
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 17,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 12,
+                "name" : "create_s",
+                "parent_name" : "",
+                "usr" : "c:@F@create_s"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "lose_s(symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@lose_s"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 21,
+                "name" : "in_grouping(struct SN_env *, unsigned char *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@in_grouping"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 31,
+                "name" : "in_grouping_b(struct SN_env *, unsigned char *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@in_grouping_b"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 41,
+                "name" : "out_grouping(struct SN_env *, unsigned char *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@out_grouping"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 51,
+                "name" : "out_grouping_b(struct SN_env *, unsigned char *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@out_grouping_b"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 62,
+                "name" : "in_range(struct SN_env *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@in_range"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 71,
+                "name" : "in_range_b(struct SN_env *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@in_range_b"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 80,
+                "name" : "out_range(struct SN_env *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@out_range"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 89,
+                "name" : "out_range_b(struct SN_env *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@out_range_b"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 98,
+                "name" : "eq_s(struct SN_env *, int, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@eq_s"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 104,
+                "name" : "eq_s_b(struct SN_env *, int, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@eq_s_b"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 110,
+                "name" : "eq_v(struct SN_env *, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@eq_v"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 114,
+                "name" : "eq_v_b(struct SN_env *, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@eq_v_b"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 118,
+                "name" : "find_among(struct SN_env *, struct among *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@find_among"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 176,
+                "name" : "find_among_b(struct SN_env *, struct among *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@find_among_b"
+            },
+            {
+                "column" : 17,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 228,
+                "name" : "increase_size(symbol *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@increase_size"
+            },
+            {
+                "column" : 12,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 239,
+                "name" : "replace_s(struct SN_env *, int, int, int, const symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@replace_s"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 254,
+                "name" : "slice_from_s(struct SN_env *, int, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@slice_from_s"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 259,
+                "name" : "slice_from_v(struct SN_env *, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@slice_from_v"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 263,
+                "name" : "slice_del(struct SN_env *)",
+                "parent_name" : "",
+                "usr" : "c:@F@slice_del"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 267,
+                "name" : "insert_s(struct SN_env *, int, int, int, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@insert_s"
+            },
+            {
+                "column" : 13,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 273,
+                "name" : "insert_v(struct SN_env *, int, int, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@insert_v"
+            },
+            {
+                "column" : 17,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 279,
+                "name" : "slice_to(struct SN_env *, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@slice_to"
+            },
+            {
+                "column" : 17,
+                "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+                "kind" : 6,
+                "line" : 289,
+                "name" : "assign_to(struct SN_env *, symbol *)",
+                "parent_name" : "",
+                "usr" : "c:@F@assign_to"
+            }
+        ],
+        "file" : "D:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src/utilities.c",
+        "file_last_write" : 1390093818
+    }
+]

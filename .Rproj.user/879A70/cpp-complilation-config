@@ -1,0 +1,12 @@
+{
+    "args" : [
+        "-ID:/Softwares/RStudio/resources/libclang/builtin-headers/3.4",
+        "-ID:/Softwares/R/R-3.5.1/include",
+        "-DNDEBUG",
+        "-ID:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/src",
+        "-ID:/RStudio Projects/New Branch/Repo_for_RTextTools/RTextTools/Snowball/q"
+    ],
+    "hash" : "15347521121313702925",
+    "is_cpp" : false,
+    "pch" : ""
+}
